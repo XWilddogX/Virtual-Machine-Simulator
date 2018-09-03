@@ -13,4 +13,4 @@ Parametros:[-a <asmfile>] [-h] [-i <infile>] [-m <mode>] [-o
  -o,--out <outfile>   Fichero donde se guarda la salida del programa de la
                       maquina-p.
                       
- Comandos disponibles en la carpeta Instructions leer java doc para la descripcion
+ Ordenes disponibles en la carpeta Instructions y commands leer java doc para la descripcion
